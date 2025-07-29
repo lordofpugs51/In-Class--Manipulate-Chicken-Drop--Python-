@@ -31,7 +31,7 @@ rSlime = pygame.transform.flip(slime, True, False) #slime, horizontal flip, vert
 
 #Setup the Screen
 width = 800
-height = 800
+height = 600
 size = (width, height)
 screen = pygame.display.set_mode(size)
 pygame.display.set_caption("Don't Let the birds land!")
